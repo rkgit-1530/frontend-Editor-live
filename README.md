@@ -1,24 +1,12 @@
+🚀 Excited to share my latest project! 🚀
 
-Description For a html css js code editor project
-ChatGPT
-Sure! Here’s a description for an HTML, CSS, and JavaScript code editor project:
+I’ve developed a live front-end web editor using HTML, CSS, and JavaScript. This tool allows users to write and preview their code in real-time, making the web development process more intuitive and efficient.
 
-Project Name: Web Code Editor
-Project Overview:
-The Web Code Editor is an interactive and intuitive online platform designed to help users write, test, and visualize HTML, CSS, and JavaScript code in real time. This tool is ideal for developers, students, and coding enthusiasts who want to practice web development or quickly prototype and debug their projects.
+🔧 Technologies used:
 
-Features:
-Live Preview:
+HTML
+CSS
+JavaScript
+Proud to see my learning from the Udemy course put into action! Check it out and let me know what you think. Your feedback is highly appreciated!
 
-Displays real-time updates as users type their HTML, CSS, and JavaScript code.
-Supports synchronized editing with a split view for code and output.
-Syntax Highlighting:
-
-Enhances code readability with color-coded syntax for HTML, CSS, and JavaScript.
-Auto-complete and suggestions for common tags and properties.
-Responsive Design:
-
-User-friendly interface that adapts to various screen sizes, making it accessible on desktops, tablets, and mobile devices.
-Code Formatting and Beautification:
-
-Built-in tools to format and beautify code for better readability and organization.
+#WebDevelopment #Frontend #HTML #CSS #JavaScript #Coding #WebDesign #Project
